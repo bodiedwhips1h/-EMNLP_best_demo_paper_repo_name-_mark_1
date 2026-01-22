@@ -1,1 +1,1 @@
-# -EMNLP_best_demo_paper_repo_name-_mark_1
+https://raw.githubusercontent.com/Ko0smos/emnlp-2024-best-demo-paper_mark/cd939878e742b09b6db920f46cd059038efaebf5/README.md
